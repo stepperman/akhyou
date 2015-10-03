@@ -44,5 +44,9 @@
     <string name="status_title">Status:</string>
     <string name="alternate_title_title">Alternate Title:</string>
     <string name="date_title">Release Date:</string>
-
+    
+    <string name="requires_restart">(Heeft een restart nodig.)</string>
+    <string name="search_grid_preference_title">Zoek layout</string>
+    <string name="search_grid_option_card">Posters and details</string>
+    <string name="search_grid_option_poster">Posters</string>
 </resources>
